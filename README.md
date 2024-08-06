@@ -1,0 +1,2 @@
+# yyheroi_blog_img_resource
+yyheroi_blog_img_resource
